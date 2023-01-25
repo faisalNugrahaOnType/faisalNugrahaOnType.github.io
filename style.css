@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@400;500;600;700&family=Raleway:wght@300&family=Roboto:wght@300;500&display=swap');
+
+body{font-family: "Poppins",sans-serif;}
+
+
+.navbar{
+    font-weight: 500;
+}
+
+.navbar .navbar-brand{
+    font-weight: 700;
+}
+
+.navbar .nav-link{
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* hero style */
+
+.hero .card-title{
+    margin-top: 300px;
+}
+
+
+/* menu style */
+
+.menu{
+    background-color: #f6f6f6;
+}
+
+.menu .section-title{
+    font-weight: 700;
+    color: #131313;
+}
+
+.menu .section-paragraf{
+    color: #131313;
+}
+
+.menu .card .card-title{
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.menu .card .card-text{
+    color: white;
+    font-weight: 300;
+}
+.menu .card .btn{
+    font-weight: 700;
+}
+
+.menu .card img{
+    border: 2px solid #f6f6f6;
+}
+
+/* footer style */
+
+.testimoni{
+    background-image: url("https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80");
+    background-size: cover;
+}
+
+.testimoni img{
+    width: 150px    ;
+}
+
+.testimoni .blockquote{
+    color: #f6f6f6;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.testimoni .blockquote-footer{
+    font-weight: 400;
+}
+
+
+/* end style */
+
+footer{
+    background-color: #131313;
+    font-weight: 500;
+}
+
+
+
